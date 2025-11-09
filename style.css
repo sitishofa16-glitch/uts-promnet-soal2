@@ -1,0 +1,59 @@
+body {
+  background-color: #f4f9f4;
+  color: #2f3e46;
+  font-family: "Poppins", sans-serif;
+}
+
+.hero {
+  height: 90vh;
+  background: linear-gradient(135deg, #bde0c8 0%, #a8dadc 100%);
+  color: #2f3e46;
+  text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.6);
+}
+
+h2 {
+  color: #2f3e46;
+}
+
+.healing-card {
+  background-color: #ffffff;
+  border-radius: 15px;
+  transition: all 0.3s ease;
+}
+
+.healing-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 15px rgba(122, 199, 157, 0.3);
+}
+
+.btn-success {
+  background-color: #7ac79d;
+  border: none;
+}
+
+.btn-success:hover {
+  background-color: #66bb6a;
+}
+
+.btn-outline-danger {
+  color: #d9534f;
+  border-color: #d9534f;
+}
+
+.btn-outline-danger:hover {
+  background-color: #d9534f;
+  color: white;
+}
+
+.healing-section {
+  background-color: #eaf4ec;
+}
+
+.table-success {
+  background-color: #bde0c8 !important;
+  color: #2f3e46;
+}
+
+footer {
+  letter-spacing: 0.5px;
+}
