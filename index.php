@@ -35,7 +35,7 @@
         [
           "nama" => "🍪 Soft Cookie Energy",
           "harga" => 10000,
-          "gambar" => "cookies.jpg",
+          "gambar" => "Cookies.jpg",
           "deskripsi" => "Cookies empuk yang manisnya kayak yang bikinnya wkwk, ibaratnya reminder kecil kalau hidup itu nggak harus keras terus. hemmm 🍪💫"
         ],
         [
